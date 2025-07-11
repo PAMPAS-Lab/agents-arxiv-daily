@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Agent":
-        filters: ["intelligent agent", "AI agent", "LLM agent framework", "agent memory", "agent emotion" "autonomous agent", "agent system framework", "Foudation Agents", "agent benchmark", "agent evaluation framework", "AgentBench", "LLM agent benchmark"]
+        filters: ["intelligent agent", "AI agent", "LLM agent framework", "agent memory", "agent emotion", "autonomous agent", "agent system framework", "Foudation Agents", "agent benchmark", "agent evaluation framework", "AgentBench", "LLM agent benchmark"]
     "Multi-Agent":
         filters: ["multi-agent system", "agent collaboration"]
     "RL":

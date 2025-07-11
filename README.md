@@ -1,13 +1,14 @@
 ## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#agent>Agent</a></li>
-    <li><a href=#rl>RL</a></li>
-  </ol>
-</details>
+
+<summary>Table of Contents</summary>
+<ol>
+  <li><a href=#agent>Agent</a></li>
+  <li><a href=#multi-agent>Multi-Agent</a></li>
+  <li><a href=#rl>RL</a></li>
+</ol>
+
 
 ## Agent
 

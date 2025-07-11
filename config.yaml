@@ -24,3 +24,5 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "Agent":
         filters: ["Agent", "Agents", "Multi Agent System", "MAS", "Foudation Agents"]
+    "RL":
+        filters: ["Reinforcement Learning"]

@@ -166,6 +166,7 @@ def update_paper_links(filename):
     '''
     def parse_arxiv_string(s):
         parts = s.split("|")
+        print(f"解析内容: {repr(contents)} → 拆分结果: {parts}，长度: {len(parts)}")  # 关键日志
         date = parts[1].strip()
         title = parts[2].strip()
         authors = parts[3].strip()

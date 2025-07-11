@@ -19,7 +19,13 @@ layout: default
 |**2025-07-10**|**The Trust Fabric: Decentralized Interoperability and Economic Coordination for the Agentic Web**|Sree Bhargavi Balija et.al.|[2507.07901](http://arxiv.org/abs/2507.07901)|null|
 |**2025-07-10**|**Automating MD simulations for Proteins using Large language Models: NAMD-Agent**|Achuth Chandrasekhar et.al.|[2507.07887](http://arxiv.org/abs/2507.07887)|null|
 |**2025-07-10**|**DocCHA: Towards LLM-Augmented Interactive Online diagnosis System**|Xinyi Liu et.al.|[2507.07870](http://arxiv.org/abs/2507.07870)|null|
+|**2025-07-10**|**Perceptual Distortions and Autonomous Representation Learning in a Minimal Robotic System**|David Warutumo et.al.|[2507.07845](http://arxiv.org/abs/2507.07845)|null|
+|**2025-07-10**|**StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley**|Weihao Tan et.al.|[2507.07445](http://arxiv.org/abs/2507.07445)|null|
+|**2025-07-09**|**The Impact of Background Speech on Interruption Detection in Collaborative Groups**|Mariah Bradford et.al.|[2507.07280](http://arxiv.org/abs/2507.07280)|null|
 |**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
+|**2025-07-09**|**Exploring LLMs for Predicting Tutor Strategy and Student Outcomes in Dialogues**|Fareya Ikram et.al.|[2507.06910](http://arxiv.org/abs/2507.06910)|null|
+|**2025-07-09**|**Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration**|Xinyuan Song et.al.|[2507.06520](http://arxiv.org/abs/2507.06520)|null|
+|**2025-07-10**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Xiangru Tang et.al.|[2507.06229](http://arxiv.org/abs/2507.06229)|null|
 
 ## RL
 
@@ -35,6 +41,10 @@ layout: default
 |**2025-07-10**|**Beyond Robustness: Learning Unknown Dynamic Load Adaptation for Quadruped Locomotion on Rough Terrain**|Leixin Chang et.al.|[2507.07825](http://arxiv.org/abs/2507.07825)|null|
 |**2025-07-10**|**BEAVER: Building Environments with Assessable Variation for Evaluating Multi-Objective Reinforcement Learning**|Ruohong Liu et.al.|[2507.07769](http://arxiv.org/abs/2507.07769)|null|
 |**2025-07-10**|**Stable Preference Optimization for LLMs: A Bilevel Approach Beyond Direct Preference Optimization**|Chengtao Jian et.al.|[2507.07723](http://arxiv.org/abs/2507.07723)|null|
+|**2025-05-12**|**Combining Bayesian Inference and Reinforcement Learning for Agent Decision Making: A Review**|Chengmin Zhou et.al.|[2505.07911](http://arxiv.org/abs/2505.07911)|null|
+|**2025-04-07**|**Weak-for-Strong: Training Weak Meta-Agent to Harness Strong Executors**|Fan Nie et.al.|[2504.04785](http://arxiv.org/abs/2504.04785)|**[link](https://github.com/fannie1208/w4s)**|
+|**2024-12-15**|**Partial Identifiability in Inverse Reinforcement Learning For Agents With Non-Exponential Discounting**|Joar Skalse et.al.|[2412.11155](http://arxiv.org/abs/2412.11155)|null|
+|**2011-06-30**|**Reinforcement Learning for Agents with Many Sensors and Actuators Acting in Categorizable Environments**|E. Celaya et.al.|[1107.0048](http://arxiv.org/abs/1107.0048)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

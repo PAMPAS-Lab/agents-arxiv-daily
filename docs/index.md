@@ -20,6 +20,21 @@ layout: default
 |**2025-07-09**|**Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration**|Xinyuan Song et.al.|[2507.06520](http://arxiv.org/abs/2507.06520)|null|
 |**2025-07-10**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Xiangru Tang et.al.|[2507.06229](http://arxiv.org/abs/2507.06229)|null|
 
+## Multi-Agent
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
+|**2025-07-07**|**Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration**|Benjamin Li et.al.|[2507.05244](http://arxiv.org/abs/2507.05244)|null|
+|**2025-07-07**|**CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale**|Jonathan Hyun et.al.|[2507.05178](http://arxiv.org/abs/2507.05178)|null|
+|**2025-07-07**|**FurniMAS: Language-Guided Furniture Decoration using Multi-Agent System**|Toan Nguyen et.al.|[2507.04770](http://arxiv.org/abs/2507.04770)|null|
+|**2025-07-05**|**HAWK: A Hierarchical Workflow Framework for Multi-Agent Collaboration**|Yuyang Cheng et.al.|[2507.04067](http://arxiv.org/abs/2507.04067)|null|
+|**2025-07-02**|**AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness**|Zixin Chen et.al.|[2507.01702](http://arxiv.org/abs/2507.01702)|null|
+|**2025-07-01**|**Rethinking the Illusion of Thinking**|Iñaki Dellibarda Varela et.al.|[2507.01231](http://arxiv.org/abs/2507.01231)|null|
+|**2025-07-01**|**Agentic AI in Product Management: A Co-Evolutionary Model**|Nishant A. Parikh et.al.|[2507.01069](http://arxiv.org/abs/2507.01069)|null|
+|**2025-06-29**|**Automated Vehicles Should be Connected with Natural Language**|Xiangbo Gao et.al.|[2507.01059](http://arxiv.org/abs/2507.01059)|null|
+|**2025-07-07**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
+
 ## RL
 
 | Publish Date | Title | Authors | PDF | Code |

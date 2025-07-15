@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Cultural Bias in Large Language Models: Evaluating AI Agents through Moral Questionnaires**|Simon Münker et.al.|[2507.10073](http://arxiv.org/abs/2507.10073)|null|
+|**2025-07-14**|**Large Population Models**|Ayush Chopra et.al.|[2507.09901](http://arxiv.org/abs/2507.09901)|null|
+|**2025-07-13**|**TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit**|Paulo Salem et.al.|[2507.09788](http://arxiv.org/abs/2507.09788)|null|
+|**2025-07-13**|**Token Compression Meets Compact Vision Transformers: A Survey and Comparative Evaluation for Edge AI**|Phat Nguyen et.al.|[2507.09702](http://arxiv.org/abs/2507.09702)|null|
+|**2025-07-13**|**eSapiens: A Platform for Secure and Auditable Retrieval-Augmented Generation**|Isaac Shi et.al.|[2507.09588](http://arxiv.org/abs/2507.09588)|null|
+|**2025-07-12**|**Knowledge Conceptualization Impacts RAG Efficacy**|Chris Davis Jaldi et.al.|[2507.09389](http://arxiv.org/abs/2507.09389)|null|
+|**2025-07-12**|**Learning from Synthetic Labs: Language Models as Auction Participants**|Anand Shah et.al.|[2507.09083](http://arxiv.org/abs/2507.09083)|null|
+|**2025-07-11**|**Behavioral Exploration: Learning to Explore via In-Context Adaptation**|Andrew Wagenmaker et.al.|[2507.09041](http://arxiv.org/abs/2507.09041)|null|
+|**2025-07-11**|**Accelerating Drug Discovery Through Agentic AI: A Multi-Agent Approach to Laboratory Automation in the DMTA Cycle**|Yao Fehlis et.al.|[2507.09023](http://arxiv.org/abs/2507.09023)|null|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
 |**2025-07-11**|**Introspection of Thought Helps AI Agents**|Haoran Sun et.al.|[2507.08664](http://arxiv.org/abs/2507.08664)|null|
 |**2025-07-11**|**OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**|Junho Koh et.al.|[2507.08644](http://arxiv.org/abs/2507.08644)|null|
@@ -40,6 +49,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-05**|**FinTeam: A Multi-Agent Collaborative Intelligence System for Comprehensive Financial Scenarios**|Yingqian Wu et.al.|[2507.10448](http://arxiv.org/abs/2507.10448)|null|
+|**2025-07-13**|**GoalfyMax: A Protocol-Driven Multi-Agent System for Intelligent Experience Entities**|Siyi Wu et.al.|[2507.09497](http://arxiv.org/abs/2507.09497)|null|
+|**2025-07-11**|**Bridging Literature and the Universe Via A Multi-Agent Large Language Model System**|Xiaowen Zhang et.al.|[2507.08958](http://arxiv.org/abs/2507.08958)|null|
 |**2025-07-12**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
 |**2025-07-07**|**Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration**|Benjamin Li et.al.|[2507.05244](http://arxiv.org/abs/2507.05244)|null|
 |**2025-07-07**|**CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale**|Jonathan Hyun et.al.|[2507.05178](http://arxiv.org/abs/2507.05178)|null|

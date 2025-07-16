@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
+|**2025-07-15**|**Opinion dynamics: Statistical physics and beyond**|Michele Starnini et.al.|[2507.11521](http://arxiv.org/abs/2507.11521)|null|
+|**2025-07-15**|**AI Agent Architecture for Decentralized Trading of Alternative Assets**|Ailiya Borjigin et.al.|[2507.11117](http://arxiv.org/abs/2507.11117)|null|
+|**2025-07-14**|**Past, Present and Future: Exploring Adaptive AI in Software Development Bots**|Omar Elsisi et.al.|[2507.10822](http://arxiv.org/abs/2507.10822)|null|
+|**2025-07-14**|**React to This (RTT): A Nonverbal Turing Test for Embodied AI**|Chuxuan Zhang et.al.|[2507.10812](http://arxiv.org/abs/2507.10812)|null|
+|**2025-07-14**|**From Semantic Web and MAS to Agentic AI: A Unified Narrative of the Web of Agents**|Tatiana Petrova et.al.|[2507.10644](http://arxiv.org/abs/2507.10644)|null|
+|**2025-07-14**|**Game Theory Meets LLM and Agentic AI: Reimagining Cybersecurity for the Age of Intelligent Threats**|Quanyan Zhu et.al.|[2507.10621](http://arxiv.org/abs/2507.10621)|null|
 |**2025-07-14**|**Cultural Bias in Large Language Models: Evaluating AI Agents through Moral Questionnaires**|Simon Münker et.al.|[2507.10073](http://arxiv.org/abs/2507.10073)|null|
 |**2025-07-14**|**Large Population Models**|Ayush Chopra et.al.|[2507.09901](http://arxiv.org/abs/2507.09901)|null|
 |**2025-07-13**|**TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit**|Paulo Salem et.al.|[2507.09788](http://arxiv.org/abs/2507.09788)|null|
@@ -42,6 +49,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Role-Playing LLM-Based Multi-Agent Support Framework for Detecting and Addressing Family Communication Bias**|Rushia Harada et.al.|[2507.11210](http://arxiv.org/abs/2507.11210)|null|
+|**2025-07-05**|**SAMEP: A Secure Protocol for Persistent Context Sharing Across AI Agents**|Hari Masoor et.al.|[2507.10562](http://arxiv.org/abs/2507.10562)|null|
 |**2025-07-05**|**FinTeam: A Multi-Agent Collaborative Intelligence System for Comprehensive Financial Scenarios**|Yingqian Wu et.al.|[2507.10448](http://arxiv.org/abs/2507.10448)|null|
 |**2025-07-13**|**GoalfyMax: A Protocol-Driven Multi-Agent System for Intelligent Experience Entities**|Siyi Wu et.al.|[2507.09497](http://arxiv.org/abs/2507.09497)|null|
 |**2025-07-11**|**Bridging Literature and the Universe Via A Multi-Agent Large Language Model System**|Xiaowen Zhang et.al.|[2507.08958](http://arxiv.org/abs/2507.08958)|null|

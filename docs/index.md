@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**BenchRL-QAS: Benchmarking reinforcement learning algorithms for quantum architecture search**|Azhar Ikhtiarudin et.al.|[2507.12189](http://arxiv.org/abs/2507.12189)|null|
+|**2025-07-16**|**Graph Representations for Reading Comprehension Analysis using Large Language Model and Eye-Tracking Biomarker**|Yuhong Zhang et.al.|[2507.11972](http://arxiv.org/abs/2507.11972)|null|
+|**2025-07-14**|**Consumer Law for AI Agents**|Christoph Busch et.al.|[2507.11567](http://arxiv.org/abs/2507.11567)|null|
 |**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
 |**2025-07-15**|**Opinion dynamics: Statistical physics and beyond**|Michele Starnini et.al.|[2507.11521](http://arxiv.org/abs/2507.11521)|null|
 |**2025-07-15**|**AI Agent Architecture for Decentralized Trading of Alternative Assets**|Ailiya Borjigin et.al.|[2507.11117](http://arxiv.org/abs/2507.11117)|null|
@@ -49,6 +52,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|
+|**2025-07-14**|**A Model Aware AIGC Task Offloading Algorithm in IIoT Edge Computing**|Xin Wang et.al.|[2507.11560](http://arxiv.org/abs/2507.11560)|null|
 |**2025-07-15**|**Role-Playing LLM-Based Multi-Agent Support Framework for Detecting and Addressing Family Communication Bias**|Rushia Harada et.al.|[2507.11210](http://arxiv.org/abs/2507.11210)|null|
 |**2025-07-05**|**SAMEP: A Secure Protocol for Persistent Context Sharing Across AI Agents**|Hari Masoor et.al.|[2507.10562](http://arxiv.org/abs/2507.10562)|null|
 |**2025-07-05**|**FinTeam: A Multi-Agent Collaborative Intelligence System for Comprehensive Financial Scenarios**|Yingqian Wu et.al.|[2507.10448](http://arxiv.org/abs/2507.10448)|null|

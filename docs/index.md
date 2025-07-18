@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -52,7 +52,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-16**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|
+|**2025-07-17**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|
 |**2025-07-14**|**A Model Aware AIGC Task Offloading Algorithm in IIoT Edge Computing**|Xin Wang et.al.|[2507.11560](http://arxiv.org/abs/2507.11560)|null|
 |**2025-07-15**|**Role-Playing LLM-Based Multi-Agent Support Framework for Detecting and Addressing Family Communication Bias**|Rushia Harada et.al.|[2507.11210](http://arxiv.org/abs/2507.11210)|null|
 |**2025-07-05**|**SAMEP: A Secure Protocol for Persistent Context Sharing Across AI Agents**|Hari Masoor et.al.|[2507.10562](http://arxiv.org/abs/2507.10562)|null|

@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**RemVerse: Supporting Reminiscence Activities for Older Adults through AI-Assisted Virtual Reality**|Ruohao Li et.al.|[2507.13247](http://arxiv.org/abs/2507.13247)|null|
+|**2025-07-17**|**MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models**|Zhiwei Liu et.al.|[2507.12806](http://arxiv.org/abs/2507.12806)|null|
+|**2025-07-17**|**Imitating Mistakes in a Learning Companion AI Agent for Online Peer Learning**|Sosui Moribe et.al.|[2507.12801](http://arxiv.org/abs/2507.12801)|null|
+|**2025-07-17**|**City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning**|Penglei Sun et.al.|[2507.12795](http://arxiv.org/abs/2507.12795)|null|
+|**2025-07-16**|**Can Mental Imagery Improve the Thinking Capabilities of AI Systems?**|Slimane Larabi et.al.|[2507.12555](http://arxiv.org/abs/2507.12555)|null|
 |**2025-07-16**|**BenchRL-QAS: Benchmarking reinforcement learning algorithms for quantum architecture search**|Azhar Ikhtiarudin et.al.|[2507.12189](http://arxiv.org/abs/2507.12189)|null|
 |**2025-07-16**|**Graph Representations for Reading Comprehension Analysis using Large Language Model and Eye-Tracking Biomarker**|Yuhong Zhang et.al.|[2507.11972](http://arxiv.org/abs/2507.11972)|null|
 |**2025-07-14**|**Consumer Law for AI Agents**|Christoph Busch et.al.|[2507.11567](http://arxiv.org/abs/2507.11567)|null|
@@ -52,6 +57,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development**|Dongming Jin et.al.|[2507.13081](http://arxiv.org/abs/2507.13081)|null|
 |**2025-07-17**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|
 |**2025-07-14**|**A Model Aware AIGC Task Offloading Algorithm in IIoT Edge Computing**|Xin Wang et.al.|[2507.11560](http://arxiv.org/abs/2507.11560)|null|
 |**2025-07-15**|**Role-Playing LLM-Based Multi-Agent Support Framework for Detecting and Addressing Family Communication Bias**|Rushia Harada et.al.|[2507.11210](http://arxiv.org/abs/2507.11210)|null|

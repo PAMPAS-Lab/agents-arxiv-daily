@@ -27,4 +27,4 @@ keywords:
     "Multi-Agent":
         filters: ["multi-agent system", "agent collaboration"]
     "RL":
-        filters: ["Reinforcement Learning for Agent"]
+        filters: ["Reinforcement Learning Agent"]

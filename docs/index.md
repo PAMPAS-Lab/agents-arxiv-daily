@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088](http://arxiv.org/abs/2507.14088)|null|
+|**2025-07-17**|**GraphTrafficGPT: Enhancing Traffic Management Through Graph-Based AI Agent Coordination**|Nabil Abdelaziz Ferhat Taleb et.al.|[2507.13511](http://arxiv.org/abs/2507.13511)|null|
 |**2025-07-17**|**RemVerse: Supporting Reminiscence Activities for Older Adults through AI-Assisted Virtual Reality**|Ruohao Li et.al.|[2507.13247](http://arxiv.org/abs/2507.13247)|null|
 |**2025-07-17**|**MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models**|Zhiwei Liu et.al.|[2507.12806](http://arxiv.org/abs/2507.12806)|null|
 |**2025-07-17**|**Imitating Mistakes in a Learning Companion AI Agent for Online Peer Learning**|Sosui Moribe et.al.|[2507.12801](http://arxiv.org/abs/2507.12801)|null|
@@ -57,6 +59,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education**|Jianing Zhao et.al.|[2507.13814](http://arxiv.org/abs/2507.13814)|null|
 |**2025-07-17**|**iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development**|Dongming Jin et.al.|[2507.13081](http://arxiv.org/abs/2507.13081)|null|
 |**2025-07-17**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|
 |**2025-07-14**|**A Model Aware AIGC Task Offloading Algorithm in IIoT Edge Computing**|Xin Wang et.al.|[2507.11560](http://arxiv.org/abs/2507.11560)|null|

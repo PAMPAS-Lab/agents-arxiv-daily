@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -15,7 +15,7 @@ layout: default
 |**2025-07-17**|**MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models**|Zhiwei Liu et.al.|[2507.12806](http://arxiv.org/abs/2507.12806)|null|
 |**2025-07-17**|**Imitating Mistakes in a Learning Companion AI Agent for Online Peer Learning**|Sosui Moribe et.al.|[2507.12801](http://arxiv.org/abs/2507.12801)|null|
 |**2025-07-17**|**City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning**|Penglei Sun et.al.|[2507.12795](http://arxiv.org/abs/2507.12795)|null|
-|**2025-07-16**|**Can Mental Imagery Improve the Thinking Capabilities of AI Systems?**|Slimane Larabi et.al.|[2507.12555](http://arxiv.org/abs/2507.12555)|null|
+|**2025-07-20**|**Can Mental Imagery Improve the Thinking Capabilities of AI Systems?**|Slimane Larabi et.al.|[2507.12555](http://arxiv.org/abs/2507.12555)|null|
 |**2025-07-16**|**BenchRL-QAS: Benchmarking reinforcement learning algorithms for quantum architecture search**|Azhar Ikhtiarudin et.al.|[2507.12189](http://arxiv.org/abs/2507.12189)|null|
 |**2025-07-16**|**Graph Representations for Reading Comprehension Analysis using Large Language Model and Eye-Tracking Biomarker**|Yuhong Zhang et.al.|[2507.11972](http://arxiv.org/abs/2507.11972)|null|
 |**2025-07-14**|**Consumer Law for AI Agents**|Christoph Busch et.al.|[2507.11567](http://arxiv.org/abs/2507.11567)|null|

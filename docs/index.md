@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770](http://arxiv.org/abs/2507.15770)|null|
+|**2025-07-21**|**TacticCraft: Natural Language-Driven Tactical Adaptation for StarCraft II**|Weiyu Ma et.al.|[2507.15618](http://arxiv.org/abs/2507.15618)|null|
+|**2025-07-21**|**HAMLET: Hyperadaptive Agent-based Modeling for Live Embodied Theatrics**|Sizhou Chen et.al.|[2507.15518](http://arxiv.org/abs/2507.15518)|null|
+|**2025-07-21**|**The Constitutional Controller: Doubt-Calibrated Steering of Compliant Agents**|Simon Kohaut et.al.|[2507.15478](http://arxiv.org/abs/2507.15478)|null|
+|**2025-07-21**|**The Emergence of Deep Reinforcement Learning for Path Planning**|Thanh Thi Nguyen et.al.|[2507.15469](http://arxiv.org/abs/2507.15469)|null|
+|**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Jiaao Li et.al.|[2507.15428](http://arxiv.org/abs/2507.15428)|null|
+|**2025-07-20**|**STL-GO: Spatio-Temporal Logic with Graph Operators for Distributed Systems with Multiple Network Topologies**|Yiqi Zhao et.al.|[2507.15147](http://arxiv.org/abs/2507.15147)|null|
+|**2025-07-20**|**Search-Based Autonomous Vehicle Motion Planning Using Game Theory**|Pouya Panahandeh et.al.|[2507.15088](http://arxiv.org/abs/2507.15088)|null|
+|**2025-07-20**|**The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering**|Hao Li et.al.|[2507.15003](http://arxiv.org/abs/2507.15003)|null|
+|**2025-07-19**|**Learning to Communicate in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence**|Faizan Contractor et.al.|[2507.14658](http://arxiv.org/abs/2507.14658)|null|
 |**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088](http://arxiv.org/abs/2507.14088)|null|
 |**2025-07-17**|**GraphTrafficGPT: Enhancing Traffic Management Through Graph-Based AI Agent Coordination**|Nabil Abdelaziz Ferhat Taleb et.al.|[2507.13511](http://arxiv.org/abs/2507.13511)|null|
 |**2025-07-17**|**RemVerse: Supporting Reminiscence Activities for Older Adults through AI-Assisted Virtual Reality**|Ruohao Li et.al.|[2507.13247](http://arxiv.org/abs/2507.13247)|null|
@@ -59,6 +69,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-19**|**Federated Reinforcement Learning in Heterogeneous Environments**|Ukjo Hwang et.al.|[2507.14487](http://arxiv.org/abs/2507.14487)|null|
+|**2025-07-14**|**Open-Source LLMs Collaboration Beats Closed-Source LLMs: A Scalable Multi-Agent System**|Shengji Tang et.al.|[2507.14200](http://arxiv.org/abs/2507.14200)|null|
 |**2025-07-18**|**CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education**|Jianing Zhao et.al.|[2507.13814](http://arxiv.org/abs/2507.13814)|null|
 |**2025-07-17**|**iReDev: A Knowledge-Driven Multi-Agent Framework for Intelligent Requirements Development**|Dongming Jin et.al.|[2507.13081](http://arxiv.org/abs/2507.13081)|null|
 |**2025-07-17**|**Aime: Towards Fully-Autonomous Multi-Agent Framework**|Yexuan Shi et.al.|[2507.11988](http://arxiv.org/abs/2507.11988)|null|
@@ -83,6 +95,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-20**|**From Kicking to Causality: Simulating Infant Agency Detection with a Robust Intrinsic Reward**|Xia Xu et.al.|[2507.15106](http://arxiv.org/abs/2507.15106)|null|
+|**2025-07-20**|**AgentFly: Extensible and Scalable Reinforcement Learning for LM Agents**|Renxi Wang et.al.|[2507.14897](http://arxiv.org/abs/2507.14897)|null|
 |**2025-07-16**|**Understanding visual attention beehind bee-inspired UAV navigation**|Pranav Rajbhandari et.al.|[2507.11992](http://arxiv.org/abs/2507.11992)|null|
 |**2025-07-14**|**Ground-Compose-Reinforce: Tasking Reinforcement Learning Agents through Formal Language**|Andrew C. Li et.al.|[2507.10741](http://arxiv.org/abs/2507.10741)|null|
 |**2025-07-16**|**A PBN-RL-XAI Framework for Discovering a "Hit-and-Run" Therapeutic Strategy in Melanoma**|Zhonglin Liu et.al.|[2507.10136](http://arxiv.org/abs/2507.10136)|null|

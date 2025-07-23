@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -103,7 +103,7 @@ layout: default
 |**2025-07-12**|**Proactive AI-and-RAN Workload Orchestration in O-RAN Architectures for 6G Networks**|Syed Danial Ali Shah et.al.|[2507.09124](http://arxiv.org/abs/2507.09124)|null|
 |**2025-07-11**|**elsciRL: Integrating Language Solutions into Reinforcement Learning Problem Settings**|Philip Osborne et.al.|[2507.08705](http://arxiv.org/abs/2507.08705)|null|
 |**2025-07-10**|**"So, Tell Me About Your Policy...": Distillation of interpretable policies from Deep Reinforcement Learning agents**|Giovanni Dispoto et.al.|[2507.07848](http://arxiv.org/abs/2507.07848)|null|
-|**2025-07-09**|**Growing Trees with an Agent: Accelerating RRTs with Learned, Multi-Step Episodic Exploration**|Xinyu Wu et.al.|[2507.06605](http://arxiv.org/abs/2507.06605)|null|
+|**2025-07-22**|**Growing Trees with an Agent: Accelerating RRTs with Learned, Multi-Step Episodic Exploration**|Xinyu Wu et.al.|[2507.06605](http://arxiv.org/abs/2507.06605)|null|
 |**2025-07-03**|**Deep Reinforcement Learning-Based DRAM Equalizer Parameter Optimization Using Latent Representations**|Muhammad Usama et.al.|[2507.02365](http://arxiv.org/abs/2507.02365)|null|
 |**2025-07-02**|**TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents**|Dmytro Kuzmenko et.al.|[2507.01823](http://arxiv.org/abs/2507.01823)|null|
 |**2025-07-02**|**Chargax: A JAX Accelerated EV Charging Simulator**|Koen Ponse et.al.|[2507.01522](http://arxiv.org/abs/2507.01522)|null|

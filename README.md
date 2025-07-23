@@ -1,4 +1,4 @@
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -70,7 +70,7 @@
 |**2025-07-09**|**Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration**|Xinyuan Song et.al.|[2507.06520](http://arxiv.org/abs/2507.06520)|null|
 |**2025-07-10**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Xiangru Tang et.al.|[2507.06229](http://arxiv.org/abs/2507.06229)|null|
 
-<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 ## Multi-Agent
 
@@ -98,7 +98,7 @@
 |**2025-06-29**|**Automated Vehicles Should be Connected with Natural Language**|Xiangbo Gao et.al.|[2507.01059](http://arxiv.org/abs/2507.01059)|null|
 |**2025-07-07**|**Embodied AI Agents: Modeling the World**|Pascale Fung et.al.|[2506.22355](http://arxiv.org/abs/2506.22355)|null|
 
-<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 ## RL
 
@@ -112,7 +112,7 @@
 |**2025-07-12**|**Proactive AI-and-RAN Workload Orchestration in O-RAN Architectures for 6G Networks**|Syed Danial Ali Shah et.al.|[2507.09124](http://arxiv.org/abs/2507.09124)|null|
 |**2025-07-11**|**elsciRL: Integrating Language Solutions into Reinforcement Learning Problem Settings**|Philip Osborne et.al.|[2507.08705](http://arxiv.org/abs/2507.08705)|null|
 |**2025-07-10**|**"So, Tell Me About Your Policy...": Distillation of interpretable policies from Deep Reinforcement Learning agents**|Giovanni Dispoto et.al.|[2507.07848](http://arxiv.org/abs/2507.07848)|null|
-|**2025-07-09**|**Growing Trees with an Agent: Accelerating RRTs with Learned, Multi-Step Episodic Exploration**|Xinyu Wu et.al.|[2507.06605](http://arxiv.org/abs/2507.06605)|null|
+|**2025-07-22**|**Growing Trees with an Agent: Accelerating RRTs with Learned, Multi-Step Episodic Exploration**|Xinyu Wu et.al.|[2507.06605](http://arxiv.org/abs/2507.06605)|null|
 |**2025-07-03**|**Deep Reinforcement Learning-Based DRAM Equalizer Parameter Optimization Using Latent Representations**|Muhammad Usama et.al.|[2507.02365](http://arxiv.org/abs/2507.02365)|null|
 |**2025-07-02**|**TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents**|Dmytro Kuzmenko et.al.|[2507.01823](http://arxiv.org/abs/2507.01823)|null|
 |**2025-07-02**|**Chargax: A JAX Accelerated EV Charging Simulator**|Koen Ponse et.al.|[2507.01522](http://arxiv.org/abs/2507.01522)|null|
@@ -121,7 +121,7 @@
 |**2024-12-15**|**Partial Identifiability in Inverse Reinforcement Learning For Agents With Non-Exponential Discounting**|Joar Skalse et.al.|[2412.11155](http://arxiv.org/abs/2412.11155)|null|
 |**2011-06-30**|**Reinforcement Learning for Agents with Many Sensors and Actuators Acting in Categorizable Environments**|E. Celaya et.al.|[1107.0048](http://arxiv.org/abs/1107.0048)|null|
 
-<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

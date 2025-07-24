@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/abs/2507.17695)|null|
+|**2025-07-23**|**EarthLink: Interpreting Climate Signals with Self-Evolving AI Agents**|Zijie Guo et.al.|[2507.17311](http://arxiv.org/abs/2507.17311)|null|
+|**2025-07-23**|**FinGAIA: An End-to-End Benchmark for Evaluating AI Agents in Finance**|Lingfeng Zeng et.al.|[2507.17186](http://arxiv.org/abs/2507.17186)|null|
+|**2025-07-23**|**Resilient Multi-Agent Negotiation for Medical Supply Chains:Integrating LLMs and Blockchain for Transparent Coordination**|Mariam ALMutairi et.al.|[2507.17134](http://arxiv.org/abs/2507.17134)|null|
+|**2025-07-23**|**Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance**|Yufei He et.al.|[2507.17131](http://arxiv.org/abs/2507.17131)|null|
+|**2025-07-22**|**Towards Autonomous Sustainability Assessment via Multimodal AI Agents**|Zhihan Zhang et.al.|[2507.17012](http://arxiv.org/abs/2507.17012)|null|
+|**2025-07-22**|**AURA: A Multi-Modal Medical Agent for Understanding, Reasoning & Annotation**|Nima Fathi et.al.|[2507.16940](http://arxiv.org/abs/2507.16940)|null|
 |**2025-07-22**|**Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation**|Viktor Muryn et.al.|[2507.16704](http://arxiv.org/abs/2507.16704)|null|
 |**2025-07-22**|**Augmenting Von Neumann's Architecture for an Intelligent Future**|Rajpreet Singh et.al.|[2507.16628](http://arxiv.org/abs/2507.16628)|null|
 |**2025-07-22**|**From model-based learning to model-free behaviour with Meta-Interpretive Learning**|Stassa Patsantzis et.al.|[2507.16434](http://arxiv.org/abs/2507.16434)|null|

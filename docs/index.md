@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agent
@@ -76,7 +76,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-21**|**HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs**|Adrian Kaiser et.al.|[2507.15917](http://arxiv.org/abs/2507.15917)|null|
+|**2025-07-23**|**HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs**|Adrian Kaiser et.al.|[2507.15917](http://arxiv.org/abs/2507.15917)|null|
 |**2025-07-19**|**Federated Reinforcement Learning in Heterogeneous Environments**|Ukjo Hwang et.al.|[2507.14487](http://arxiv.org/abs/2507.14487)|null|
 |**2025-07-14**|**Open-Source LLMs Collaboration Beats Closed-Source LLMs: A Scalable Multi-Agent System**|Shengji Tang et.al.|[2507.14200](http://arxiv.org/abs/2507.14200)|null|
 |**2025-07-18**|**CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education**|Jianing Zhao et.al.|[2507.13814](http://arxiv.org/abs/2507.13814)|null|
